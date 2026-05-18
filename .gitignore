@@ -1,0 +1,35 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Mac System Files
+.DS_Store
+
+# Model Files
+*.pkl
+
+# Data Files (Optional)
+*.csv
+*.xlsx
+*.xls
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+
+# Environment Variables
+.env
